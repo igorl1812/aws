@@ -6,11 +6,16 @@ nodejs
 npm
 bower
 
+<<<<<<< HEAD
 npm init
+=======
+npm init 
+>>>>>>> _repo_2
 npm install --save express
 npm install --save-dev  grunt
 npm install --save request
 
+<<<<<<< HEAD
 
 Grunt Tasks
 
@@ -21,3 +26,7 @@ For API documentation generation we us http://apidocjs.com/.
 <code>grunt apidoc</code>
 
 Need Devops working
+=======
+Need Devops working
+
+>>>>>>> _repo_2
